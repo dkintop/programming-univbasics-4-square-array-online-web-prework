@@ -34,7 +34,7 @@ end
 
 
 
-#!def square_array(array)
+=begin def square_array(array)
  counter = 0
  
  
@@ -51,6 +51,8 @@ end
 new_array
 
 end
+
+=end
 #the above example puts the results to the terminal, but only returns the last value. closest you have gotten so far.
 
 
