@@ -8,13 +8,15 @@ def square_array(array)
  result= array[counter] **2
 
  
- new_array= []
+new_array= []
 new_array << result
 puts new_array
 
 counter += 1
 end
+
 new_array
+
 end
 
 #the above method will square a value at a designated index of an array. 
