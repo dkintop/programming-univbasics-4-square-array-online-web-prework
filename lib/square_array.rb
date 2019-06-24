@@ -10,7 +10,7 @@ def square_array(array)
  
 new_array= []
 new_array << result
-
+puts new_array
 counter += 1
 end
 
