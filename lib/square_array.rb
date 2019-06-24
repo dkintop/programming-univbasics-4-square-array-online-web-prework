@@ -8,7 +8,6 @@ def square_array(array)
  result= array[counter] **2
 
  
-new_array= []
 new_array.push(result)
 puts new_array
 
