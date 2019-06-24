@@ -21,3 +21,28 @@ end
 
 #the above method will square a value at a designated index of an array. 
 #next challenge is to use a while loop to push the new value to  new array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
