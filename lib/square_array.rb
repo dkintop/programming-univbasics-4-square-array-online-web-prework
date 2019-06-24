@@ -6,7 +6,7 @@ def square_array (array)
  
  while array[counter] do
  result= array[counter] **2
- result
+
  
  new_array= []
 new_array << result
